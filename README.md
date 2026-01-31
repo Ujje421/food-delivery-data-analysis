@@ -5,7 +5,7 @@ This project analyzes a food delivery platform’s data by combining information
 It was created as part of a data analytics hackathon to demonstrate skills in **data cleaning, data integration, and exploratory data analysis** using Python.
 
 ---
-
+ Link of Jupiter Notebook - https://colab.research.google.com/drive/1kHogUVU0LIvoxVwqpKevxnpvnxtCRijh?usp=sharing
 ## 📂 Datasets Used
 
 Three different datasets were provided, simulating real-world systems:
